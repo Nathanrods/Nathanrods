@@ -1,16 +1,33 @@
-## Hi there 👋
+## Fala pessoal, eu sou o Nathan Rodrigues, Analista de Desenvolvimento
 
-<!--
-**Nathanrods/Nathanrods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! Bem-vindo ao meu repositório! Dê uma espiada e não esqueça de me seguir! 🚀
 
-Here are some ideas to get you started:
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Nathanrods&show_icons=true&theme=dark&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Nathanrods&show_icons=true&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathanrods&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nathan-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Nathan-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/nathan.rods/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:nathanrod.ads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nathanrod-ads/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://nathanrods.github.io/index.html" target="_blank"><img src="https://img.shields.io/badge/Portifólio-9146FF?style=for-the-badge&logo=Portifolio&logoColor=white" target="_blank"></a>
+  <a href="https://upper-solution.github.io/Portif-lio/" target="_blank"><img src="https://img.shields.io/badge/UpperResolution-7289DA?style=for-the-badge&logo=UpperResolution&logoColor=white" target="_blank"></a>
+</div>
