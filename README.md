@@ -1,6 +1,6 @@
 ## Fala pessoal, eu sou o Nathan Rodrigues, Analista de Desenvolvimento
 
-Hey! Bem-vindo ao meu repositório! Dê uma espiada e não esqueça de me seguir! 🚀
+Bem-vindo ao meu repositório! Dê uma espiada e não esqueça de me seguir! 🚀
 
 <picture>
   <source
