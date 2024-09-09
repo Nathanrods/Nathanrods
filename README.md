@@ -13,6 +13,9 @@ Bem-vindo ao meu repositório! Dê uma espiada e não esqueça de me seguir! �
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Nathanrods&show_icons=true&rank_icon=github" alt="GitHub Stats" />
 </picture>
+<div>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanrods&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nathan-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
@@ -27,11 +30,7 @@ Bem-vindo ao meu repositório! Dê uma espiada e não esqueça de me seguir! �
   <img align="center" alt="Nathan-Word" height="40" width="40" src="https://www.svgrepo.com/show/374187/word.svg">
   <img align="center" alt="Nathan-PowerPoint" height="40" width="40" src="https://www.svgrepo.com/show/373989/powerpoint.svg">
 </div>
-
-<div>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanrods&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
+ <br>
 <div> 
   <a href="https://www.instagram.com/nathan.rods/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="mailto:nathanrod.ads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
