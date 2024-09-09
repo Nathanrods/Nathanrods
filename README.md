@@ -27,12 +27,10 @@ Bem-vindo ao meu repositório! Dê uma espiada e não esqueça de me seguir! �
   <img align="center" alt="Nathan-Word" height="40" width="40" src="https://www.svgrepo.com/show/374187/word.svg">
   <img align="center" alt="Nathan-PowerPoint" height="40" width="40" src="https://www.svgrepo.com/show/373989/powerpoint.svg">
 </div>
-  
-  ##
-  <div>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanrods&layout=compact&langs_count=7&theme=dracula"/>
 
-  </div>
+<div>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanrods&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
 <div> 
   <a href="https://www.instagram.com/nathan.rods/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
